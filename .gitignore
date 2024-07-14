@@ -161,8 +161,6 @@ cython_debug/
 
 *.pyc
 .DS_Store
-github.ipynb
-GITHUB_KEY.txt
 COHERE_KEY.txt
 GEMINI_KEY.txt
 S2_API_KEY.txt
